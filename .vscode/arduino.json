@@ -1,0 +1,7 @@
+{
+    "sketch": "Marlin\\Marlin.ino",
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560",
+    "port": "COM4"
+}
